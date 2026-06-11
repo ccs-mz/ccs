@@ -1,0 +1,14 @@
+{
+
+    "menu": {
+        "services": "Serviços",
+        "projects": "projects",
+        "about": "Sobre",
+        "blog": "Blog",
+        "contact": "Contatos"
+    },
+
+    "currentLang": {
+        "lang": "PT"
+    }
+}

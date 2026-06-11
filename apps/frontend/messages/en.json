@@ -1,0 +1,13 @@
+{
+
+    "menu": {
+        "home":"Home",
+        "about": "About",
+        "blog": "Blog",
+        "services": "Services",
+        "contact": "Contacts"
+    },
+    "currentLang":{
+        "lang":"EN"
+    }
+}
