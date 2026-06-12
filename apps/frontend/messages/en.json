@@ -1,11 +1,26 @@
 {
 
     "menu": {
-        "home":"Home",
+        "services": "Services",
+        "projects": "Projects",
         "about": "About",
         "blog": "Blog",
-        "services": "Services",
         "contact": "Contacts"
+    },
+    "home": {
+        "target": "Modern Digital Solutions",
+        "h1focus": " We turn ideas into solutions Digital",
+        "h1focus2": "and intelligent",
+        "cta":"Build my solution now",
+        "content": "Custom systems with automation, artificial intelligence, and chatbots. Web3 and blockchain solutions focused on scale, performance, and innovation."
+    },
+    "chatboot":{
+        "hello":"Hi there!",
+        "h1": "We make it simple to connect with us. Ask us anything, or share your feedback.",
+        "away_title": "Talk to our virtual assistant.",
+        "away_description": "We’re ready to help you now",
+        "start_conversation": "Start conversation",
+        "modelBio": "We’re here to help"
     },
     "currentLang":{
         "lang":"EN"

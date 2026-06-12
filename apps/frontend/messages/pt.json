@@ -2,12 +2,26 @@
 
     "menu": {
         "services": "Serviços",
-        "projects": "projects",
+        "projects": "Projetos",
         "about": "Sobre",
         "blog": "Blog",
         "contact": "Contatos"
     },
-
+    "home": {
+        "target": "Soluções Digitais Modernas",
+        "h1focus": "Transformamos Ideias em Soluções",
+        "h1focus2": "Digitais e Inteligentes",
+        "cta": "Construir minha solução agora",
+        "content": "Sistemas sob medida com automação, inteligência artificial e chatbots. Soluções Web3 e Blockchain focadas em escala, performance e inovação."
+    },
+    "chatboot":{
+        "hello":"Ola!",
+        "h1": " Tornamos simples entrar em contato conosco. Faça qualquer pergunta ou compartilhe seu feedback.",
+        "away_title": "Fale com nosso agente virtual.",
+        "away_description": "Estamos prontos para ajudar você agora",
+        "start_conversation": "Iniciar conversa",
+        "modelBio": "Estamos aqui para ajudar"
+    },
     "currentLang": {
         "lang": "PT"
     }
